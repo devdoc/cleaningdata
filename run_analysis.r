@@ -1,6 +1,6 @@
 ## run_analysis.r
 
-library(dplyr)
+library(plyr)
 
 # Read measurements, activity labels, and subject labels for test & train observations
 test <- read.table("UCI HAR Dataset/test/X_test.txt", colClasses = "numeric")

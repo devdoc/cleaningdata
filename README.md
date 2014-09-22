@@ -4,7 +4,7 @@ This repository contains the Course Project for the course Getting and Cleaning 
 
 Description
 ===========
-`run_analysis.r` must be run in the same directory where the source data has been unzipped. It will then
+`run_analysis.r` must be run in the same directory where the [source data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) has been unzipped. It will then
 - read in the test and train datasets,
 - relabel variables with descriptive names,
 - add variables for the Activity and the Subject that each row of data relate to, 
